@@ -3,6 +3,7 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/spread.js" />
+        <item url="file://$PROJECT_DIR$/MyQ.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -11,6 +12,7 @@
       <root url="file://$USER_HOME$/QDemo/all.js" />
       <root url="file://$USER_HOME$/QDemo/Promise.js" />
       <root url="file://$PROJECT_DIR$/spread.js" />
+      <root url="file://$PROJECT_DIR$/MyQ.js" />
     </CLASSES>
     <SOURCES />
   </library>
