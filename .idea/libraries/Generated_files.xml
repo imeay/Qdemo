@@ -3,8 +3,9 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/fcall.js" />
-        <item url="file://$PROJECT_DIR$/allSettled.js" />
         <item url="file://$PROJECT_DIR$/spread.js" />
+        <item url="file://$PROJECT_DIR$/allSettled.js" />
+        <item url="file://$PROJECT_DIR$/when.js" />
         <item url="file://$PROJECT_DIR$/any.js" />
       </sourceFilesUrls>
     </properties>
@@ -15,8 +16,9 @@
       <root url="file://$USER_HOME$/QDemo/Promise.js" />
       <root url="file://$PROJECT_DIR$/MyQ.js" />
       <root url="file://$PROJECT_DIR$/fcall.js" />
-      <root url="file://$PROJECT_DIR$/allSettled.js" />
       <root url="file://$PROJECT_DIR$/spread.js" />
+      <root url="file://$PROJECT_DIR$/allSettled.js" />
+      <root url="file://$PROJECT_DIR$/when.js" />
       <root url="file://$PROJECT_DIR$/any.js" />
     </CLASSES>
     <SOURCES />
