@@ -2,8 +2,10 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/fcall.js" />
+        <item url="file://$PROJECT_DIR$/allSettled.js" />
         <item url="file://$PROJECT_DIR$/spread.js" />
-        <item url="file://$PROJECT_DIR$/MyQ.js" />
+        <item url="file://$PROJECT_DIR$/any.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -11,8 +13,11 @@
       <root url="file://$USER_HOME$/QDemo/reject.js" />
       <root url="file://$USER_HOME$/QDemo/all.js" />
       <root url="file://$USER_HOME$/QDemo/Promise.js" />
-      <root url="file://$PROJECT_DIR$/spread.js" />
       <root url="file://$PROJECT_DIR$/MyQ.js" />
+      <root url="file://$PROJECT_DIR$/fcall.js" />
+      <root url="file://$PROJECT_DIR$/allSettled.js" />
+      <root url="file://$PROJECT_DIR$/spread.js" />
+      <root url="file://$PROJECT_DIR$/any.js" />
     </CLASSES>
     <SOURCES />
   </library>
